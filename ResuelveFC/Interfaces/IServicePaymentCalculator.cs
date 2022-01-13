@@ -4,6 +4,6 @@ namespace ResuelveFC.Interfaces
 {
     public interface IServicePaymentCalculator
     {
-        public List<Player> Payments(PaymentHelper initialData);
+        public List<PlayerPaycheckInfo> Payments(PaymentHelper initialData);
     }
 }
