@@ -12,10 +12,10 @@ namespace ResuelveFC.Controllers
         private readonly IServicePaymentCalculator _servicePaymentCalculator = new ServicePaymentCalculator();
 
         [HttpPost]
-        public List<PlayerPaycheckInfo> Post([FromBody] PaymentHelper playersPrePayment)
+        public ActionResult<List<PlayerPaycheckInfo>> Post([FromBody] PaymentHelper playersPrePayment)
         {
             List<PlayerPaycheckInfo>? players = _servicePaymentCalculator.Payments(playersPrePayment);
-            return players;
+            return Ok(players);
         }
     }
 }

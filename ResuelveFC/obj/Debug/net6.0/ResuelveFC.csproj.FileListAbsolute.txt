@@ -52,3 +52,7 @@ C:\Users\bravo\Documents\ResuelveFC\ResuelveFC\obj\Debug\net6.0\ResuelveFC.dll
 C:\Users\bravo\Documents\ResuelveFC\ResuelveFC\obj\Debug\net6.0\ref\ResuelveFC.dll
 C:\Users\bravo\Documents\ResuelveFC\ResuelveFC\obj\Debug\net6.0\ResuelveFC.pdb
 C:\Users\bravo\Documents\ResuelveFC\ResuelveFC\obj\Debug\net6.0\ResuelveFC.genruntimeconfig.cache
+C:\Users\bravo\Documents\ResuelveFC\ResuelveFC\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\bravo\Documents\ResuelveFC\ResuelveFC\bin\Debug\net6.0\Microsoft.Azure.Core.NewtonsoftJson.dll
+C:\Users\bravo\Documents\ResuelveFC\ResuelveFC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bravo\Documents\ResuelveFC\ResuelveFC\bin\Debug\net6.0\Newtonsoft.Json.dll
